@@ -1,0 +1,23 @@
+{
+  "name": "xlnt.js",
+  "version": "0.9.0",
+  "description": "Emscripten port of xlnt library for reading, modifying, and writing XLSX files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "cmake-js compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfussell/xlnt.js.git"
+  },
+  "author": "Thomas Fussell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tfussell/xlnt.js/issues"
+  },
+  "homepage": "https://github.com/tfussell/xlnt.js#readme",
+  "dependencies": {
+    "cmake-js": "^3.4.1"
+  }
+}
