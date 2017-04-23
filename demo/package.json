@@ -2,6 +2,7 @@
   "name": "xlnt.js",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://tfussell.github.io/xlnt.js/demo/build",
   "dependencies": {
     "bootstrap": "^3.3.7",
     "react": "^15.5.4",
